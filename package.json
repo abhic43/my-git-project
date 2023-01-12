@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~9.1.4",
     "@angular/router": "~9.1.4",
     "bootstrap": "^4.4.1",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "jquery": "^1.9.1",
     "popper.js": "^1.14.6",
     "rxjs": "~6.5.4",
